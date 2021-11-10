@@ -1,3 +1,0 @@
-"# purf" 
-"# perfection" 
-"# perfection" 
